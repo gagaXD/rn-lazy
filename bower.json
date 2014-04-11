@@ -1,12 +1,13 @@
 {
   "author": "Julien Bouquillon",
   "name": "rn-lazy",
+  "main" :"src/lazy.js",
   "description": "Display loaders while you load background images.",
   "version": "0.0.1",
-  "homepage": "http://github.com/revolunet/rn-lazy",
+  "homepage": "http://github.com/gagaXD/rn-lazy",
   "repository": {
     "type": "git",
-    "url": "git://github.com/revolunet/rn-lazy"
+    "url": "git://github.com/gagaXD/rn-lazy"
   },
   "dependencies": {
     "angular": "1.0.7"
